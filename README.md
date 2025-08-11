@@ -1,3 +1,6 @@
+forked from https://github.com/meteofrance/original-dgmr
+
+
 # original-dgmr
 # Rainfall Nowcasting in France using the DGMR Model
 
